@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lgundry
-- I am interested in a lot of things but AI, Cryptography, and game deveopment are the big hitters.
+- I am interested in a lot of things - but AI, Cryptography, and game development are some big hitters.
 - 🌱 I’m currently teaching myself deep learning
 - An easy way to reach me is through my email @ logangundry1@gmail.com
 
